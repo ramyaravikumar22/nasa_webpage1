@@ -1,8 +1,22 @@
 h1{
-    font-size: 1.5em;
-    color: blue;
+    font-size: 100px;
 }
 
 body{
-    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px 75px 0px 75px;
+}
+
+.banner-image{
+    height: 450px;
+    width: 1000px;
+    margin:  50px 0px 20px 0px;
+    background-position: center;
+    text-align: center;
+    line-height: 450px;
+    color: white;
+}
+
+.artice{
+    margin: 20px;
 }
